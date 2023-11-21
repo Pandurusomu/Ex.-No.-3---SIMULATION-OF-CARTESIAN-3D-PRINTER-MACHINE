@@ -59,9 +59,15 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/e00b82b4-9aff-400f-9c57-288254dc3cd2)
 
 ## Output:
+![WhatsApp Image 2023-11-21 at 15 36 17_f0b633c0](https://github.com/Pandurusomu/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/148988619/b73da8b0-2fd8-4a07-8803-fd6cde12377b)
+![WhatsApp Image 2023-11-21 at 15 36 17_030b2b1c](https://github.com/Pandurusomu/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/148988619/5871b3ff-1582-4a08-89db-4bec153e7043)
+![WhatsApp Image 2023-11-21 at 15 36 18_8d6e09b2](https://github.com/Pandurusomu/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/148988619/c73af2a8-eb83-43f8-b0fc-1df5bfac903f)
+![WhatsApp Image 2023-11-21 at 15 36 18_b2733866](https://github.com/Pandurusomu/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/148988619/c74334be-5e18-42c5-b898-d691bf4013e3)
+![Screenshot 2023-11-21 153705](https://github.com/Pandurusomu/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/148988619/d09dec2c-59b5-4160-a97a-d87fb20ff268)
 
-### Name: 
-### Register Number:
+
+### Name: panduru somu
+### Register Number: 23005083
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
